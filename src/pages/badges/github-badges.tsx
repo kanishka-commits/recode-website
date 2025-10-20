@@ -1122,7 +1122,7 @@ const GithubBadgesContent = (): React.ReactElement => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Prepare for the GitHub Foundations exam →
+                Prepare for the GitHub Foundations exam
               </a>
             </div>
             <div className={styles.certBadge}>
